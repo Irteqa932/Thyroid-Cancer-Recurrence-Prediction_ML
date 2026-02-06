@@ -119,7 +119,7 @@ The results demonstrate that machine learning, particularly Random Forest, can e
 ## Project Links
 
 - **Google Colab Notebook:***(*https://colab.research.google.com/drive/1KjK7tNgQxqbJfYC3Bxu_z1Xw6m_f9Jm6?usp=sharing)
-- **GitHub Repository:** *(This repository)*
+- **GitHub Repository:** *(https://github.com/Irteqa932/Thyroid-Cancer-Recurrence-Prediction_ML.git)*
 
 ---
 
