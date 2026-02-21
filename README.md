@@ -116,10 +116,42 @@ The results demonstrate that machine learning, particularly Random Forest, can e
 
 ---
 
-## Project Links
+##  Project Structure
 
-- **Google Colab Notebook:**(https://colab.research.google.com/drive/1KjK7tNgQxqbJfYC3Bxu_z1Xw6m_f9Jm6?usp=sharing)
-- **GitHub Repository:**(https://github.com/Irteqa932/Thyroid-Cancer-Recurrence-Prediction_ML.git)
+```
+Liver-Cirrhosis-Stage-Detection/
+│
+├── liver_cirrhosis.csv
+├── Liver_Cirrhosis_Stage_Detection.ipynb
+├── README.md
+└── requirements.txt
+```
+
+---
+
+##  How to Run the Project
+
+1️. Clone the repository:
+
+```
+git clone https://github.com/your-username/liver-cirrhosis-ml.git
+```
+
+2️. Install dependencies:
+
+```
+pip install pandas numpy matplotlib seaborn scikit-learn xgboost joblib
+```
+
+3️. Open the notebook in Google Colab or Jupyter Notebook.
+
+4️. Run all cells sequentially.
+
+---
+
+## Project Resources
+
+- **Google Colab Notebook:** [Open Notebook](https://colab.research.google.com/drive/1KjK7tNgQxqbJfYC3Bxu_z1Xw6m_f9Jm6?usp=sharing)
 
 ---
 
