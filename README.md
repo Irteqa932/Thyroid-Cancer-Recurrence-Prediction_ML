@@ -100,6 +100,36 @@ Feature importance analysis revealed that the following features had the greates
 
 ---
 
+##  Project Structure
+
+```
+Thyroid-cancer-recurrence-prediction/
+│
+├── Thyroid_cancer.csv
+├── Thyroid_cancer_recurrence_prediction_using_ml.ipynb
+├── README.md
+└── requirements.txt
+```
+
+##  How to Run the Project
+
+1️. Clone the repository:
+
+```
+git clone https://github.com/your-username/Thyroid-Cancer-Recurrence-Prediction_ML.git
+```
+
+2️. Install dependencies:
+
+```
+pip install pandas numpy matplotlib seaborn scikit-learn
+```
+
+3️. Open the notebook in Google Colab or Jupyter Notebook.
+
+4️. Run all cells sequentially.
+
+---
 ## Conclusion
 
 The results demonstrate that machine learning, particularly Random Forest, can effectively predict thyroid cancer recurrence with high accuracy and recall. The model highlights clinically relevant features and can serve as a decision-support tool in healthcare settings.
@@ -113,39 +143,6 @@ The results demonstrate that machine learning, particularly Random Forest, can e
 - Integration of medical imaging data
 - Deployment as a real-time clinical decision support system
 - Use of explainable AI techniques (SHAP, LIME)
-
----
-
-##  Project Structure
-
-```
-Liver-Cirrhosis-Stage-Detection/
-│
-├── liver_cirrhosis.csv
-├── Liver_Cirrhosis_Stage_Detection.ipynb
-├── README.md
-└── requirements.txt
-```
-
----
-
-##  How to Run the Project
-
-1️. Clone the repository:
-
-```
-git clone https://github.com/your-username/liver-cirrhosis-ml.git
-```
-
-2️. Install dependencies:
-
-```
-pip install pandas numpy matplotlib seaborn scikit-learn xgboost joblib
-```
-
-3️. Open the notebook in Google Colab or Jupyter Notebook.
-
-4️. Run all cells sequentially.
 
 ---
 
