@@ -116,7 +116,7 @@ Thyroid-cancer-recurrence-prediction/
 1️. Clone the repository:
 
 ```
-git clone https://github.com/your-username/Thyroid-Cancer-Recurrence-Prediction_ML.git
+git clone https://github.com/your-username/Thyroid-Cancer-Recurrence-Prediction.git
 ```
 
 2️. Install dependencies:
